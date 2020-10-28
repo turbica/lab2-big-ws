@@ -32,5 +32,5 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 
 |NIA    | User name | Repo | Build Status | What was explored | Review for :gift: | Score
 |-------|-----------|------|--------------|-------------------|----------------------|--------
-|739324 | [Elena Morón Vidal](https://github.com/elenamv13/) | [elenamv13/lab2-big-ws](https://github.com/elenamv13/lab2-big-ws) | [![Build Status](https://travis-ci.com/elenamv13/lab1-git-race.svg)](https://travis-ci.com/elenamv13/lab1-git-race) | Spring throwing exceptions and Junit exception management  |              |                   |                      |
+|739324 | [Elena Morón Vidal](https://github.com/elenamv13/) | [elenamv13/lab2-big-ws](https://github.com/elenamv13/lab2-big-ws/tree/test) | [![Build Status](https://travis-ci.com/elenamv13/lab1-git-race.svg)](https://travis-ci.com/elenamv13/lab1-git-race) | Spring throwing exceptions and Junit exception management  |              |                   |                      |
 
