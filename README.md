@@ -20,14 +20,17 @@ Solutions must meet primary goals too.
 Granted:
 - [Upgrade to WSDL 2.0 and SOAP 1.2](https://github.com/luisgg98/lab2-big-ws/tree/WSDL2.0_AND_SOAP1.2). Achieving this goal Luis García has learnt that the support promised by Spring Web Services for WSDL 2.0 is deceiving but the support for SOAP 1.2 is ok and can be used as transport independed of the WSDL version used :gift:
 
-Proposed:
+In progress:
 
 - Secure the endpoint [WS-Security](https://docs.spring.io/spring-ws/docs/3.0.10.RELEASE/reference/#security)
-- Project splits in two (client/server), and the `build.gradle` of the client generates classes from a `wsdl` file retrieved from the server during the build 
-- Re-implement the project following [Writing Contract-First Web Services tutorial](https://docs.spring.io/spring-ws/docs/3.0.10.RELEASE/reference/#tutorial)
 - Re-implement the project with [gRPC](https://yidongnan.github.io/grpc-spring-boot-starter/en/)
 - Re-implement the project with [GraphQL](https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/)
 - Re-implement the project with [Thrift](https://github.com/aatarasoff/spring-thrift-starter)
+
+Proposed:
+
+- Project splits in two (client/server), and the `build.gradle` of the client generates classes from a `wsdl` file retrieved from the server during the build 
+- Re-implement the project following [Writing Contract-First Web Services tutorial](https://docs.spring.io/spring-ws/docs/3.0.10.RELEASE/reference/#tutorial)
 
 New ideas will be provided if the gift list gets exhausted.
 
