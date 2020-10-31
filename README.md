@@ -25,12 +25,12 @@ In progress:
 - Secure the endpoint [WS-Security](https://docs.spring.io/spring-ws/docs/3.0.10.RELEASE/reference/#security)
 - Re-implement the project with [gRPC](https://yidongnan.github.io/grpc-spring-boot-starter/en/)
 - Re-implement the project with [GraphQL](https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/)
-- Re-implement the project with [Thrift](https://github.com/aatarasoff/spring-thrift-starter)
 
 Proposed:
 
 - Project splits in two (client/server), and the `build.gradle` of the client generates classes from a `wsdl` file retrieved from the server during the build 
 - Re-implement the project following [Writing Contract-First Web Services tutorial](https://docs.spring.io/spring-ws/docs/3.0.10.RELEASE/reference/#tutorial)
+- Re-implement the project with [Thrift](https://github.com/aatarasoff/spring-thrift-starter)
 
 New ideas will be provided if the gift list gets exhausted.
 
