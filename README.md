@@ -25,12 +25,12 @@ In progress:
 - Secure the endpoint [WS-Security](https://docs.spring.io/spring-ws/docs/3.0.10.RELEASE/reference/#security)
 - Re-implement the project with [gRPC](https://yidongnan.github.io/grpc-spring-boot-starter/en/)
 - Re-implement the project with [GraphQL](https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/)
-- Re-implement the project with [Thrift](https://github.com/aatarasoff/spring-thrift-starter)
 
 Proposed:
 
 - Project splits in two (client/server), and the `build.gradle` of the client generates classes from a `wsdl` file retrieved from the server during the build 
 - Re-implement the project following [Writing Contract-First Web Services tutorial](https://docs.spring.io/spring-ws/docs/3.0.10.RELEASE/reference/#tutorial)
+- Re-implement the project with [Thrift](https://github.com/aatarasoff/spring-thrift-starter)
 
 New ideas will be provided if the gift list gets exhausted.
 
@@ -46,7 +46,7 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 |755769 |[Saúl Flores](https://github.com/saul205)|[saul205/lab2-big-ws](https://github.com/saul205/lab2-big-ws/tree/test)|![Build Status](https://travis-ci.com/saul205/lab2-big-ws.svg?branch=test)|[JUnit Exception Testing](https://github.com/junit-team/junit4/wiki/Exception-testing)| Re-implement the project with [gRPC](https://yidongnan.github.io/grpc-spring-boot-starter/en/)
 |739202 |[Luis García](https://github.com/luisgg98)|[luisgg98/lab2-big-ws](https://github.com/luisgg98/lab2-big-ws/) |  [![Build Status](https://travis-ci.com/luisgg98/lab2-big-ws.svg)](https://travis-ci.com/luisgg98/lab2-big-ws)    |  Exception Tests  |  [Upgrade to WSDL 2.0 and SOAP 1.2](https://github.com/luisgg98/lab2-big-ws/tree/WSDL2.0_AND_SOAP1.2) | :gift: |  
 |756123 |[Rogelio Lacruz](https://github.com/RogorStuff)|[RogorStuff/lab2-big-ws](https://github.com/RogorStuff/lab2-big-ws/tree/test) |[![Build Status](https://travis-ci.org/RogorStuff/lab2-big-ws.svg)](https://travis-ci.org/RogorStuff/lab2-big-ws)    | Spring exceptions, JUnit tests |                      |
-|760704 |[Álvaro García](https://github.com/Alvarogd6)|[Alvarogd6/lab2-big-ws](https://github.com/Alvarogd6/lab2-big-ws/tree/test)|![Build Status](https://travis-ci.com/Alvarogd6/lab2-big-ws.svg?branch=test)|JUnit, Spring ws exceptions| Re-implement the project with [Thrift](https://github.com/aatarasoff/spring-thrift-starter)   |
+|760704 |[Álvaro García](https://github.com/Alvarogd6)|[Alvarogd6/lab2-big-ws](https://github.com/Alvarogd6/lab2-big-ws/tree/test)|![Build Status](https://travis-ci.com/Alvarogd6/lab2-big-ws.svg?branch=test)|JUnit, Spring ws exceptions|    |
 |760739 |[Alberto Calvo](https://github.com/AlbertoCalvoRubio)|[AlbertoCalvoRubio/lab2-big-ws](https://github.com/AlbertoCalvoRubio/lab2-big-ws/tree/test)|![Build Status](https://travis-ci.com/AlbertoCalvoRubio/lab2-big-ws.svg?branch=test)|Spring Ws exceptions, Junit|                      |
 |766685 |[Enrique Ruiz](https://github.com/TheRealFreeman) | [TheRealFreeman/lab2-big-ws](https://github.com/TheRealFreeman/lab2-big-ws/tree/test) | ![Build Status](https://api.travis-ci.com/TheRealFreeman/lab2-big-ws.svg?branch=test) | JUnit and WSDL description |                      |
 |755742 |[Juan José Tambo](https://github.com/jtambo99)|[jtambo99/lab2-big-ws](https://github.com/jtambo99/lab2-big-ws/tree/test)|[![Build Status](https://travis-ci.com/jtambo99/lab2-big-ws.svg?branch=test)](https://travis-ci.com/jtambo99/lab2-big-ws) | JUnit test & Spring exceptions |                         | 
